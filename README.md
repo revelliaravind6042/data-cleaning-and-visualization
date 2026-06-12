@@ -141,7 +141,7 @@ seaborn
 
 B.Tech CSE (Data Science) Student
 
-Data Science Enthusiast | Python Learner | Aspiring Data Analyst
+
 
 ---
 
